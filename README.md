@@ -1,2 +1,8 @@
-# multiple-
-This feature makes buttons more fun and eye-catching. When you hover over a button:  - It **changes color** for a lively effect 🎨 - **Sparkles appear**, adding a bit of magic ✨ - **App names show up** for easy navigation 📱  It’s a simple way to make buttons more engaging and informative!
+# multiple-app-icon
+An exciting, interactive button that reveals multiple app icons when clicked!
+
+**Click once** to see icons for **Alarm, Call, Messages, Camera, Night Mode, Game, and Weather** 🌞
+Each icon pops up with **smooth animation** for a clean, fun look 📱
+**Hover over icons** for unique color effects, bringing them to life with style ✨
+
+Perfect for a dynamic and engaging menu that feels like magic! 🪄
